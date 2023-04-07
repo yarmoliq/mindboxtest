@@ -2,7 +2,9 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shape", "Shape\Shape.csproj", "{2D531698-8784-4F2F-879E-25CC0CA584C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication", "ConsoleApplication\ConsoleApplication.csproj", "{EAA82634-FCC2-457F-B281-29FA71A762A1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Examples", "Examples\Examples.csproj", "{EAA82634-FCC2-457F-B281-29FA71A762A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeUnitTests", "ShapeUnitTests\ShapeUnitTests.csproj", "{D801A18A-A534-43FF-B6A5-942DB6B451E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +20,9 @@ Global
 		{EAA82634-FCC2-457F-B281-29FA71A762A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAA82634-FCC2-457F-B281-29FA71A762A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EAA82634-FCC2-457F-B281-29FA71A762A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D801A18A-A534-43FF-B6A5-942DB6B451E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D801A18A-A534-43FF-B6A5-942DB6B451E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D801A18A-A534-43FF-B6A5-942DB6B451E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D801A18A-A534-43FF-B6A5-942DB6B451E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
